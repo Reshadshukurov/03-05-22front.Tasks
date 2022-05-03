@@ -1,0 +1,27 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.banner {
+    width: 23%;
+    height: 225px;
+    float: left;
+    margin: 10px 10px 0px 10px;
+}
+.banner img{
+    width: 100%;
+    height: 32vh;
+}
+.p{
+    text-align: center;
+    
+}
+.icon{
+    text-align: center;
+    color: yellow;
+}
+.p .price{
+    color: green;
+
+}
